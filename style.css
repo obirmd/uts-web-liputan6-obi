@@ -231,7 +231,7 @@ nav .masuk:hover {
 .bkiri {
     width: 30%;
     height: 800px;
-    border: 1px solid  rgb(180, 170, 170);
+    /* border: 1px solid  rgb(180, 170, 170); */
     border-radius: 8px 8px 0px 0px;
 }
 
