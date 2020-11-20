@@ -230,7 +230,7 @@ nav .masuk:hover {
 
 .bkiri {
     width: 30%;
-    height: 800px;
+    height: 1500px;
     /* border: 1px solid  rgb(180, 170, 170); */
     border-radius: 8px 8px 0px 0px;
 }
@@ -274,10 +274,103 @@ nav .masuk:hover {
     margin-top: 25px;
 }
 
+.bkiri .tv p {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 13px;
+}
 
+.bkiri .tv img {
+    width: 280px;
+    margin-left: 5px;
+}
 
+.bkiri .fakta .tum h3 {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
 
+.bkiri .fakta .tum img {
+    width: 270px;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
 
+.bkiri .fakta .tum p {
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.bkiri .fakta .tum a {
+    text-decoration: none;
+    color: black;
+}
+
+.bkiri .fakta .tum hr {
+    margin-top: 10px;
+    opacity: 0.3;
+    width: 269px;
+    margin-left: 10px;
+}
+
+.bkiri .tk1 {
+    display: flex;
+}
+
+.bkiri .tk1 img {
+   margin-top: 10px;
+   margin-left: 10px;
+}
+
+.bkiri .tk1 p {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+ }
+
+ .bkiri .tk1 a {
+  text-decoration: none;
+  color: black;
+ }
+
+.bkiri hr {
+    margin-top: 10px;
+    opacity: 0.3;
+    width: 269px;
+    margin-left: 10px;
+}
+
+.bkiri .tk2 {
+    display: flex;
+}
+
+.bkiri .tk2 img {
+   margin-top: 10px;
+   margin-left: 10px;
+}
+
+.bkiri .tk2 p {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+ }
+
+ .bkiri .tk2 a {
+  text-decoration: none;
+  color: black;
+ }
+
+.bkiri hr {
+    margin-top: 10px;
+    opacity: 0.3;
+    width: 269px;
+    margin-left: 10px;
+}
 
 
 
