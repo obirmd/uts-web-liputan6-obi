@@ -134,9 +134,10 @@ nav .masuk:hover {
 
 .bkanan {
     width: 70%;
-    height: 800px;
-    border: 1px solid  rgb(180, 170, 170);
+    height: 1600px;
+    /* border: 1px solid  rgb(229, 209, 209); */
     border-radius: 8px 8px 0px 0px;
+
 }
 
 .bkanan .gambar img {
@@ -272,6 +273,7 @@ nav .masuk:hover {
 .bkiri .live img {
     width: 280px;
     margin-top: 25px;
+    margin-left: 10px;
 }
 
 .bkiri .tv p {
@@ -371,6 +373,47 @@ nav .masuk:hover {
     width: 269px;
     margin-left: 10px;
 }
+
+.artikel .item .item1 {
+    display: flex;
+}
+
+.artikel .item .item1 img {
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.artikel .item .item1 h5 {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgb(247, 73, 43);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.artikel .item .item1 h3 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.artikel .item .item1 a {
+    color: black;
+}
+
+.loadmore button {
+    background-color:  rgb(247, 73, 43);
+    height: 20px;
+    width: 110px;
+    border: none;
+    border-radius: 50px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 290px;
+    color: wheat;
+}
+
 
 
 
