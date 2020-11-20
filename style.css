@@ -426,7 +426,7 @@ nav .masuk:hover {
 }
 
 .footer hr {
-    margin-top: 200px;
+    margin-top: 180px;
     width: 95%;
     margin-left: 35px;
     opacity: 0.3;
@@ -438,6 +438,13 @@ nav .masuk:hover {
     margin-top: 9px;
     margin-left: 550px;
     color: rgb(73, 69, 69);
+}
+
+.footer .copy {
+    font-size: 14px;
+    margin-top: 30px;
+    margin-left: 400px;
+    color: rgb(185, 181, 181);
 }
 
 
