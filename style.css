@@ -1,0 +1,286 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    height: 1000px;
+}
+
+.container {
+    width: 71%;
+    margin: auto;
+    padding: 19px;
+}
+
+nav {
+    display: flex;
+}
+
+form {
+    margin-top: 2px;
+    margin-left: 30px;
+}
+
+form input, text{
+    width: 400px;
+    border-radius: 50px;
+    padding: 8px;
+    border: 1px solid rgb(180, 170, 170);
+}
+
+button a {
+    text-decoration: none;
+}
+
+nav .masuk {
+    text-decoration: none;
+    font-size: 13px;
+    color: black;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-left: 230px;
+}
+
+nav .masuk:hover {
+    color: chocolate;
+}
+
+.hd1 {
+    display: flex;
+}
+
+.hd1 button a {
+    color: #fff;
+}
+
+.hd1 button {
+    background-color: rgb(247, 73, 43);
+    height: 30px;
+    width: 60px;
+    border: none;
+    border-radius: 50px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+
+.kategori {
+    margin-top: 20px;
+}
+
+.kategori ul li {
+    display: inline-block;
+}
+
+.kategori ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 7px;
+}
+
+.kategori ul li a:hover {
+    color: chocolate;
+} 
+
+.headline {
+    margin-top: 20px;
+    height: 40px;
+    background-color: rgb(247, 73, 43);
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+}
+
+.headline button {
+    background-color: white;
+    height: 20px;
+    width: 110px;
+    border: none;
+    border-radius: 50px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.headline button a {
+    color: rgb(247, 73, 43);
+}
+
+.headline marquee {
+    font-size: 13px;
+    color: white;
+    font-weight: bold;
+    justify-content: center;
+    margin-top: 13px;
+    margin-left: 8px;
+}
+
+.headline marquee a {
+    text-decoration: none;
+    color: white;
+}
+
+.container2 {
+    width: 71%;
+    margin: auto;
+    padding: 19px;
+    display: flex;
+}
+
+.bkanan {
+    width: 70%;
+    height: 800px;
+    border: 1px solid  rgb(180, 170, 170);
+    border-radius: 8px 8px 0px 0px;
+}
+
+.bkanan .gambar img {
+   width: 672px;
+   border-radius: 8px 8px 0px 0px;
+}
+
+.bkanan p {
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: lightslategray;
+}
+
+.bkanan h1 {
+    margin-left: 20px;
+    margin-top: 9px;
+    color: black;
+}
+
+.bkanan a {
+    text-decoration: none;
+    
+}
+
+.bkanan h5 {
+    margin-left: 20px;
+    margin-top: 8px;
+    color: rgb(103, 107, 110);
+    font-weight: normal;
+}
+
+.bkanan hr {
+    width: 630px;
+    margin-left: 18px;
+    margin-top: 20px;
+    opacity: 0.2;
+}
+
+.bkanan .slid h4 {
+    margin-top: 30px;
+    margin-left: 20px;
+    color: rgb(53, 52, 51);
+}
+
+.slid h4 {
+    margin-bottom: 10px;
+}
+
+.berita {
+    display: flex;
+    margin-left: 20px;
+}
+
+.berita .b1 img {
+    border-radius: 15px;
+}
+
+.slid .berita .b1 p {
+    margin-left: 0px;
+}
+
+.slid .berita .b1 a {
+    color: black;
+}
+
+.berita .b2 img {
+    border-radius: 15px;
+}
+
+.slid .berita .b2 p {
+    margin-left: 0px;
+}
+
+.slid .berita .b2 a {
+    color: black;
+}
+
+.berita .b3 img {
+    border-radius: 15px;
+}
+
+.slid .berita .b3 p {
+    margin-left: 0px;
+}
+
+.slid .berita .b3 a {
+    color: black;
+}
+
+
+.bkiri {
+    width: 30%;
+    height: 800px;
+    border: 1px solid  rgb(180, 170, 170);
+    border-radius: 8px 8px 0px 0px;
+}
+
+.bkiri .populer h3 {
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.bkiri .populer a {
+    text-decoration: none;
+    color: black;
+}
+
+.bkiri .populer a:hover {
+    color: rgb(247, 73, 43);
+}
+
+.bkiri .populer p {
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.bkiri .populer span {
+    letter-spacing: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgb(247, 73, 43);
+}
+
+.bkiri .populer hr {
+    width: 230px;
+    margin-left: 53px;
+    opacity: 0.3;
+}
+
+.bkiri .live img {
+    width: 280px;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
