@@ -415,37 +415,101 @@ nav .masuk:hover {
 }
 
 .footer {
+    display: flex;
     width: 100%;
     background-color: rgb(245, 243, 243);
-    height: 350px;
+    height: 220px;
 }
 
-.footer .footlogo {
-    padding: 30px;
+.footer .footkanan {
+    width: 50%;
+    height: 220px;
+    border-bottom: 1px solid  rgb(229, 209, 209);
+}
+
+.footer .footkanan img {
+    padding: 20px;
+}
+
+.footer .cf {
     display: flex;
 }
 
-.footer hr {
-    margin-top: 180px;
-    width: 95%;
-    margin-left: 35px;
-    opacity: 0.3;
+.footer .footkanan ul li {
+    list-style-type: none;
 }
 
-.footer p {
-    font-size: 20px;
+
+
+.footer .footkanan a {
+    text-decoration: none;
+    color: rgb(71, 68, 68);
+    padding: 20px;
+    line-height: 30px;
     font-weight: bold;
-    margin-top: 9px;
-    margin-left: 550px;
-    color: rgb(73, 69, 69);
+    font-size: 15px;
 }
 
-.footer .copy {
-    font-size: 14px;
-    margin-top: 30px;
-    margin-left: 400px;
-    color: rgb(185, 181, 181);
+.footer .footkiri {
+    display: flex;
+    width: 50%;
+    height: 220px;
+    border-bottom: 1px solid  rgb(229, 209, 209);
 }
+
+.footer .footkiri h3 {
+    padding: 20px;
+}
+
+.footer .footkiri .jarf {
+    display: flex;
+}
+
+.footer .footkiri a {
+    text-decoration: none;
+    color: rgb(71, 68, 68);
+    padding: 20px;
+    line-height: 35px;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.footer .footkiri .ff1 {
+    display: flex;
+    margin-right: 50px;
+}
+
+.footer .footkiri ul li {
+    list-style-type: none;
+}
+.akhr {
+    display: flex;
+    width: 100%;
+    background-color: rgb(245, 243, 243);
+    height: 50px; 
+}
+
+.akhr .sos1 img {
+    width: 30px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.akhr p {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 230px;
+    font-size: 13px;
+    color: rgb(71, 68, 68);
+}
+
+
+
+
+
+
+
+
 
 
 
